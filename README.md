@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/manishkumar60708090/">
  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/manish-kumar-9721a3214/">
+<a href="https://huggingface.co/manishkurmi/">
  <img src="https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=HuggingFace&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
