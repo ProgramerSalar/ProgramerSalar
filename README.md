@@ -1,3 +1,8 @@
+
+
+![my_image](https://github.com/user-attachments/assets/a30ac1ab-10fd-438c-a86f-5b502102cc8e)
+
+
 ## Hi there 👋
 
 
