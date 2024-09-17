@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Zoho.
 - 🌱 I’m currently learning LLMS.
-- 👯 I’m looking to collaborate on Diwali.
+- 👯 I’m looking to cellaborate on Diwali.
 - 🤔 I’m looking for help with Animal.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
