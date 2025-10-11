@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
 <div id="badges">
 
-<a href="https://www.linkedin.com/in/manish-kumar-9721a3214/">
+<a href="">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/manishkumar60708090/">
+<a href="">
  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://huggingface.co/manishkurmi/">
+<a href="">
  <img src="https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=HuggingFace&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
-<a href="https://medium.com/@manishkumar60708090">
+<a href="">
  <img src="https://img.shields.io/badge/medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
