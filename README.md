@@ -10,8 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in Zoho.
-- 🌱 I’m currently learning LLMS.
+- 🌱 I’m currently Building zulense.com
 - 👯 I’m looking to cellaborate on Diwali.
 - 🤔 I’m looking for help with Animal.
 - 💬 Ask me about ...
@@ -26,22 +25,17 @@ Here are some ideas to get you started:
 <div id="badges">
 
 <a href="">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <img src="https://www.linkedin.com/in/manish-kumar%F0%9F%87%BF-584880365/" alt="LinkedIn Badge"/>
 </a>
-<a href="">
- <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+
 <a href="">
  <img src="https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=HuggingFace&logoColor=white" alt="LinkedIn Badge"/>
 </a>
  
-<a href="">
- <img src="https://img.shields.io/badge/medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
-</a>
- 
+
  
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blu" alt=""/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
